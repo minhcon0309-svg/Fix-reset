@@ -1,0 +1,8 @@
+strContent = Fix Reset thành công. Vui lòng tải mod ở kênh chính chủ để tránh lỗi không mong muốn. Kênh YouTube: youtube.com/@shirooni3906
+hasCancelBtn = true
+onConfirm = nil
+onCancel = nil
+confirmStr = Đã Hiểu
+cancelStr = Đã Hiểu
+titleStr = ShiroOni3906
+isShowCloseBtn = true
